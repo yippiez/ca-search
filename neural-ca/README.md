@@ -1,0 +1,2 @@
+https://www.semanticscholar.org/paper/Using-Fractal-Neural-Networks-to-Play-SimCity-1-and-Earle/439f2408b186676288a28f67922a3c296678783f
+https://www.kaggle.com/code/jamesmcguigan/its-easy-for-neural-networks-to-learn-game-of-life
